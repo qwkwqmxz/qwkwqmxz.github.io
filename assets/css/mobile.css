@@ -1,0 +1,38 @@
+@media only screen and (max-width: 767px) {
+    .header_body .header_column1 {
+        display: none;
+    }
+    .header_body .header_column2 {
+        width: 100%;
+    }
+    span {
+width: 200px;
+    }
+    .container {
+        margin: 0 auto;
+    max-width: 350px;
+    }
+    p{
+    text-align: center;
+    margin: 0px 0px 0px 0px;
+    font-size: 17px;
+}
+h4{
+font-size: 20px;
+margin: 30px 0px 0px 0px;
+}
+}
+
+
+
+
+
+
+@media only screen and (min-width: 1024px) {
+   
+    .container {
+        margin: 0 auto;
+    max-width: 1000px;
+    }
+
+}
